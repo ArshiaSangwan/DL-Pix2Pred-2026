@@ -49,7 +49,7 @@ The final PCCP Ensemble combines:
 | Rank-6 DoRA high-resolution augmentation | `3,892,224` | `74.33%`, rejected |
 | Length-calibrated answer-text likelihood | same checkpoint | about `44.5%`, rejected |
 | Exact row-similarity resolver | no trainable parameters | `68.13%`, rejected and removed from the maintained pipeline |
-| PCCP Ensemble final submission | `4,996,096` | `90.5%` hidden-test leaderboard result |
+| PCCP Ensemble final submission | `4,996,096` | `90.5%` leaderboard result |
 
 ![Validation ablation accuracy](figures/ablation_accuracy.png)
 
