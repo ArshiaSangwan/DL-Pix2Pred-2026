@@ -1,0 +1,4 @@
+split,rows,two_choice,three_choice,four_choice,five_choice
+train,3109,664,1552,783,110
+val,1048,244,508,252,44
+test,1008,272,438,260,38

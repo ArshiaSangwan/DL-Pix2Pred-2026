@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+.env
+.env.*
+
+# Data
+data/
+images/
+
+# Model checkpoints and artifacts
+checkpoints/
+best_model/
+runs/
+submissions/
+*.pt
+*.pth
+*.safetensors
+
+# W&B
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+down.py
+*_battle_plan.md
+
+# Keep the canonical submission filename visible, but ignore variants.
+submission_*.csv
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.bbl
+paper/*.bcf
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.log
+paper/*.out
+paper/*.run.xml
+paper/*.synctex.gz

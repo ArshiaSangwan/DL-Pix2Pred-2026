@@ -1,0 +1,8 @@
+experiment,accuracy
+r8 LoRA,0.8177
+r8 + prompt/choice TTA,0.8206
+connector best,0.8139
+connector + prompt/choice TTA,0.8254
+r6 DoRA high-res,0.7433
+exact row-similarity resolver,0.6813
+length-calibrated scoring,0.445
